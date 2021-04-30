@@ -17,6 +17,10 @@ Este realiza las opciones básicas, como la de:
     Y cambia imagen al pasar la canción
 ```
 
+```
+Este fuee compilado en flash 8, asi que puede ser modificado con adobe flash que en la red aun se puede encontrar
+```
+
 
 
 
