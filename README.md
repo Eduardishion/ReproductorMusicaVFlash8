@@ -2,7 +2,8 @@
 
 Vista previa 
 
-https://github.com/Eduardishion/ReproductorMusicaVFlash8/blob/master/ima.png
+![Vista previa ](https://github.com/Eduardishion/ReproductorMusicaVFlash8/blob/master/ima.png)
+
 
 
 ```
