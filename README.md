@@ -1,5 +1,11 @@
 **Este es repositorio que contiene un reproductor hecho en flash 8, ya descontinuado pero aun funcional**
 
+## Para este proyecto que ido haciendo de manera autodidacta para aprender estas tegnologias use:
+
+```
+-action script
+-y en su momento adobe flash 8 para compilarlo
+```
 Vista previa 
 
 ![Vista previa ](https://github.com/Eduardishion/ReproductorMusicaVFlash8/blob/master/ima.png)
