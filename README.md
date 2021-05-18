@@ -1,7 +1,6 @@
 **Este es repositorio que contiene un reproductor hecho en flash 8, ya descontinuado pero aun funcional**
 
-## Para este proyecto que ido haciendo de manera autodidacta para aprender estas tegnologias use:
-
+En este proyecto use:
 ```
 -action script
 -y en su momento adobe flash 8 para compilarlo
