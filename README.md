@@ -2,7 +2,7 @@
 
 En este proyecto use:
 ```
--action script
+-ActionScript
 -y en su momento adobe flash 8 para compilarlo
 ```
 Vista previa 
