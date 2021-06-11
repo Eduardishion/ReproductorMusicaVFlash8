@@ -5,7 +5,7 @@ En este proyecto use:
 -ActionScript
 -y en su momento adobe flash 8 para compilarlo
 ```
-hay un sin fin de referencias pero en especifico en es enmomento use:
+hay un sin fin de referencias pero en especifico en ese momento use:
 
 - ActionScript 3.0 Bible Second Edition, Roger Braunstein
 - ActionScript 3.0 Cookbook Joey Lott, Darron Schall, and Keith Peters
